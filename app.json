@@ -1,0 +1,19 @@
+{
+  "addons": [
+    "heroku-postgresql"
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "Africans Committed to technology as a way to provide solutions to Africa's problems.",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "JFBTech",
+  "scripts": {
+    "postdeploy": "Python 3/PHP/HTML/JavaScript",
+    "pr-predestroy": "Python 3/PHP/HTML/JavaScript"
+  },
+  "stack": "heroku-18"
+}
