@@ -1,4 +1,3 @@
-# Question 4, Artificial Intelligence of Code Review Questions - Cycle 17
 # By Justine Robert Igune
 # Making a Magic 8 ball
 
