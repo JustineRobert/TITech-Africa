@@ -1,5 +1,5 @@
 # By Justine Robert Igune
-# Making a Magic 8 ball
+# Making a Magic 8 ball Game
 
 import unittest
 from unittest import TestCase
