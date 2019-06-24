@@ -2,13 +2,13 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Café Progate</title>
+  <title>Café JFBTech</title>
   <link rel="stylesheet" type="text/css" href="stylesheet.css">
   <link href='https://fonts.googleapis.com/css?family=Pacifico|Lato' rel='stylesheet' type='text/css'>
 </head>
 <body>
   <div class="menu-wrapper container">
-    <h1 class="logo">Café Progate</h1>
+    <h1 class="logo">Café JFBTech</h1>
     <div class="menu-items">
       <!-- Write the foreach loop -->
       <?php foreach ($menus as $menu): ?>
