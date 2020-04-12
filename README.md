@@ -1,2 +1,2 @@
-# JFBTech-Uganda-Ltd
-Africans Committed to Technology
+# TITech Africa
+Ask anything Software, We Do!
